@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Machine_Learning-000?style=for-the-badge&logo=&logoColor=white)
+![](https://img.shields.io/badge/Artificial_Intelligence-ED8B00?style=for-the-badge&logoColor=white)
 
 ![](https://img.shields.io/badge/MARKDOWN-05223d?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -31,6 +32,9 @@
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/CrewAI-8A002A?style=for-the-badge&logo=crewai&logoColor=white)
+![](https://img.shields.io/badge/LLM'S-05223d?style=for-the-badge&logo=llm&logoColor=white)
+![](https://img.shields.io/badge/LLAMA3-FFFFFF?style=for-the-badge&logo=llama&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -38,6 +42,7 @@
 ![](https://img.shields.io/badge/Debian_Server-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/GIT-6DB33F?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
