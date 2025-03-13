@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Machine_Learning-000?style=for-the-badge&logo=&logoColor=white)
-![](https://img.shields.io/badge/Artificial_Intelligence-ED8B00?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/AI-ED8B00?style=for-the-badge&logoColor=white)
 
 ![](https://img.shields.io/badge/MARKDOWN-05223d?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
